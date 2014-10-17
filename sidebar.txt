@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[lni:home|Door43 (lni)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-lni|d43-lni repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-lni/archive/master.zip|d43-lni.zip]]
+
+**Recent Changes**
+{{changes>ns = lni}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/lni|Ethnologue data]]
+
